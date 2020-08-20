@@ -229,3 +229,5 @@ contract MyContract is Ownable {  // Inherit from Ownable contract
     }
 }
 ##
+
+## Building Coin for Yield Farming ##
